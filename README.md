@@ -1,4 +1,4 @@
 # TensorflowCourseGoogle
 Course from Google
 ### References
-[Image Filtering](https://lodev.org/cgtutor/filtering.html)
+[Lode's Computer Graphics Tutorial Image Filtering](https://lodev.org/cgtutor/filtering.html)
